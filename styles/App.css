@@ -1,5 +1,5 @@
 .App {
-  height: 100vh;
+  height: 160vh;
   background-color: rgb(20, 20, 20);
   text-align: center;
   overflow: hidden;
@@ -55,12 +55,12 @@
   border-radius: 10px;
   cursor: pointer;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: bold; 
 }
 
 .connect-wallet-button {
   color: white;
-  background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
+  background: -webkit-linear-gradient(left, #ff8867, #8952ff);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   max-width: 300px;
